@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Força a Seleção de Texto Global no tom Azul da Ionlab sem Verde */
+*::selection {
+  background-color: #00207E !important;
+  color: #ffffff !important;
+}
+
+*::-moz-selection {
+  background-color: #00207E !important;
+  color: #ffffff !important;
+}
+
+::selection {
+  background-color: #00207E !important;
+  color: #ffffff !important;
+}
+
+::-moz-selection {
+  background-color: #00207E !important;
+  color: #ffffff !important;
+}

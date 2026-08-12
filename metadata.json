@@ -1,0 +1,6 @@
+{
+  "name": "Ionlab Promo & Tracking Dashboard",
+  "description": "Landing page promocional de micropipetas com cotação via WhatsApp e Painel Administrativo de Tracking em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
